@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">The A Hostel</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_rate2">Rate 2</string>
+    <string name="menu_rate">Rate</string>
+    <string name="menu_book">Booking</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="description">Enjoy your own bunk bed with individual
+wall lamps, outlets, and blackout
+curtains to ensure privacy. A shared
+balcony is available for socials.</string>
+    <string name="title1">6 - Bed Dorm Ensuite with Balcony</string>
+    <string name="preview1">Preview</string>
+    <string name="description1">A sanctuary carefully designed with your privacy and comfort in mind. The A Hostel offers relaxation for backpackers and travellers alike, providing dorm rooms that make for a perfect way to cap off your day. Share the experience of retreating to the luxury of home after exploring Boracay’s white sandy beaches</string>
+    <string name="title">Read More</string>
+    <string name="title2">TODO</string>
+    <string name="description2">6 - Bed Dorm Ensuite</string>
+    <string name="description3"><![CDATA[Each bunk bed has black out curtains to ensure privacy in the shared room. There is an individual wall lamp and outlet for the convenience of the guest. Room is Ensuite with a Rain Shower with heater & bidet.]]></string>
+    <string name="create"><u>Create Account</u></string>
+    <string name="info">info@theahostel.com</string>
+    <string name="number">0917 174 0834</string>
+    <string name="message">MESSAGE</string>
+    <string name="send">SEND</string>
+    <string name="name_0">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="logout">LogOut</string>
+    <string name="no_of_persons">NO. OF PERSONS</string>
+    <string name="reserve">RESERVE</string>
+    <string name="contact_no">CONTACT NO.</string>
+    <string name="date_check_in">DATE CHECK IN</string>
+    <string name="date_check_out">DATE CHECK OUT</string>
+    <string name="no_of_days">NO. OF DAYS</string>
+    <string name="acct">My Account</string>
+    <string-array name="hotel_type">
+        <item>6 - Bed Dorm Ensuite with Balcony</item>
+        <item>6 - Bed Dorm Ensuite</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reservation_details">RESERVATION DETAILS</string>
+
+</resources>

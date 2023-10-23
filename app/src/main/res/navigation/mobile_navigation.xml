@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.theahostel.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.theahostel.ui.gallery.GalleryFragment"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/nav_rate"
+        android:name="com.example.theahostel.ui.rate.RateFragment"
+        tools:layout="@layout/fragment_rate" />
+
+    <fragment
+        android:id="@+id/nav_rate2"
+        android:name="com.example.theahostel.ui.rate1.RateFragment1"
+        tools:layout="@layout/fragment_rate2" />
+
+    <fragment
+        android:id="@+id/nav_book"
+        android:name="com.example.theahostel.ui.book.BookFragment"
+        tools:layout="@layout/fragment_book" />
+
+    <fragment
+        android:id="@+id/nav_location"
+        android:name="com.example.theahostel.ui.location.LocationFragment"
+        tools:layout="@layout/fragment_location" />
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.theahostel.ui.contact.ContactFragment"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+    android:id="@+id/nav_account"
+    android:name="com.example.theahostel.ui.account.AccountFragment"
+    tools:layout="@layout/fragment_account" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.theahostel.ui.about.AboutFragment"
+        tools:layout="@layout/fragment_about" />
+
+
+
+</navigation>

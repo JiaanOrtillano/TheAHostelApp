@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_book"
+            android:title="@string/menu_book" />
+        <item
+            android:id="@+id/nav_account"
+            android:title="@string/acct"/>
+        <item
+            android:id="@+id/nav_rate"
+            android:title="@string/title1" />
+        <item
+            android:id="@+id/nav_rate2"
+            android:title="@string/description2" />
+        <item
+            android:id="@+id/nav_location"
+            android:title="@string/menu_location" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_contact"
+            android:title="@string/menu_contact" />
+
+
+
+
+</menu>

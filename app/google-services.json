@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854803047484",
+    "firebase_url": "https://the-a-hostel.firebaseio.com",
+    "project_id": "the-a-hostel",
+    "storage_bucket": "the-a-hostel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854803047484:android:41e6c769be45fca9da0f39",
+        "android_client_info": {
+          "package_name": "com.example.theahostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854803047484-24ek22k6vktdt92t5so0hhittjibumrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjtLiKl-G72yz3E4871b4kdzUqRRP4Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854803047484-24ek22k6vktdt92t5so0hhittjibumrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
